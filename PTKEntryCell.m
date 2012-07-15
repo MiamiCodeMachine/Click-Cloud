@@ -66,6 +66,7 @@
     strokeRect = rectFor1PxStroke(strokeRect);
 
     CGContextSetStrokeColorWithColor(context, whiteColor);
+    
     CGContextSetLineWidth(context, 1.0);
     CGContextStrokeRect(context, strokeRect);
     
