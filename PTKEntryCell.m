@@ -52,7 +52,6 @@
                                                green:208.0/255
                                                 blue:208.0/255
                                                alpha:1.0].CGColor;
-
     
     CGRect paperRect = self.bounds;
     drawLinearGradient(context, paperRect, whiteColor, lightGrayColor);
