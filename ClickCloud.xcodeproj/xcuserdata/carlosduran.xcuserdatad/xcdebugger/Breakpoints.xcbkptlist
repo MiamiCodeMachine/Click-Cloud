@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PhotoShare/DetailViewController.m"
+         timestampString = "363905168.59459"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "202"
+         endingLineNumber = "202"
+         landmarkName = "-imageTapped:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PhotoShare/MasterViewController.m"
+         timestampString = "363903192.120843"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "717"
+         endingLineNumber = "717"
+         landmarkName = "-viewDidLoad"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PhotoShare/MasterViewController.m"
+         timestampString = "363903192.120843"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "739"
+         endingLineNumber = "739"
+         landmarkName = "-viewDidLoad"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PhotoShare/DetailViewController.m"
+         timestampString = "363879058.276877"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "65"
+         endingLineNumber = "65"
+         landmarkName = "-fixupAdView:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PhotoShare/DetailViewController.m"
+         timestampString = "363905168.59459"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "118"
+         endingLineNumber = "118"
+         landmarkName = "-bannerView:didFailToReceiveAdWithError:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PhotoShare/DetailViewController.m"
+         timestampString = "363905168.59459"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "189"
+         endingLineNumber = "189"
+         landmarkName = "-willRotateToInterfaceOrientation:duration:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PhotoShare/DetailViewController.m"
+         timestampString = "363902700.172263"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "31"
+         endingLineNumber = "31"
+         landmarkName = "-getBannerHeight:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PhotoShare/DetailViewController.m"
+         timestampString = "363902702.917476"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "38"
+         endingLineNumber = "38"
+         landmarkName = "-getBannerHeight"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "PhotoShare/DetailViewController.m"
+         timestampString = "363902869.407368"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "42"
+         endingLineNumber = "42"
+         landmarkName = "-createAdBannerView"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../../Xcode projects/Click Cloud/CustomTableView.m"
+         timestampString = "364046004.254078"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "15"
+         endingLineNumber = "15"
+         landmarkName = "-initWithFrame:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "../../Xcode projects/Click Cloud/CustomTableView.m"
+         timestampString = "364046008.003415"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "28"
+         endingLineNumber = "28"
+         landmarkName = "-drawRect:"
+         landmarkType = "5">
+      </FileBreakpoint>
+   </FileBreakpoints>
+   <ExceptionBreakpoints>
+      <ExceptionBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         scope = "0"
+         stopOnStyle = "0">
+      </ExceptionBreakpoint>
+   </ExceptionBreakpoints>
+</Bucket>
